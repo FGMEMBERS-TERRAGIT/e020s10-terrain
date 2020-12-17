@@ -1,0 +1,6 @@
+OBJECT_BASE 3429905.btg
+OBJECT FZNA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 29.236307 -1.657083 1543.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 29.237049 -1.663790 1535.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 29.239942 -1.679249 1522.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 29.239503 -1.668058 1536.6 0.00

@@ -1,0 +1,5 @@
+OBJECT_BASE 3430007.btg
+OBJECT HUMW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 29.888248 -0.196288 957.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 29.899292 -0.191960 960.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 29.893367 -0.193274 957.4 0.00
